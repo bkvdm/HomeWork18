@@ -1,4 +1,4 @@
-package tel.bvm.calculatorhomework18;
+package tel.bvm.calculator;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
