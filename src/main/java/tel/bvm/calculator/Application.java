@@ -1,13 +1,12 @@
-package tel.bvm.calculatorhomework18;
+package tel.bvm.calculator;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CalculatorHomeWork18Application {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CalculatorHomeWork18Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
-
 }
